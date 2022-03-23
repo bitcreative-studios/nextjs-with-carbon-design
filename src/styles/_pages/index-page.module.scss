@@ -1,0 +1,5 @@
+@import '@carbon/type/scss/styles';
+
+.hero__heading {
+  @include carbon--type-style('productive-heading-01');
+}
